@@ -4,3 +4,9 @@
 /bin
 .vagrant
 *.etcd
+
+.idea/*
+.idea/vcs.xml
+
+vendor/*
+
